@@ -1,0 +1,35 @@
+// This is a comment.
+//SPECIFY POWERUP: Invul = P310, ShootCoins = P311, Speed = P312, Random = P0
+P0
+// Here is the definition table
+# =0
+#!=100
+#$=300
+#^=312
+#*=311
+#@=310
+#>=98
+#;=200
+#.=201
+#v=202
+#/=203
+#,=204
+#w=205
+#~=206
+#a=210
+#b=211
+#c=212
+#d=213
+// Here is the map itself                  
+                                 //////////////////
+                                 /                /
+                                 /                /
+                                 /                /
+                                 /   a  b  c  d   /
+                                 /                /
+                                 /                /
+                                 /                /
+                                 /              > /
+                                 /  !             /
+                                 //////////////////
+

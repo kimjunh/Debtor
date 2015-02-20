@@ -1,0 +1,160 @@
+//This is a comment.
+//Put the answer choices to the corresponding questions in the question.txt file using multiple choice format
+//
+//Answers:
+//
+//0
+A) Money
+B) Capital
+C) Primary
+D) Secondary
+//1
+A) A limited partner in a partnership.
+B) A shareholder in a corporation.
+C) The owner of a sole proprietorship.
+D) A member in a limited liability company (LLC).
+//2
+A) monthly
+B) quarterly
+C) semi-annually
+D) annually
+//3
+A) total tax liability divided by taxable income
+B) rate that will be paid on the next dollar of taxable income
+C) median marginal tax rate
+D) percentage increase in taxable income from the previous period
+//4
+A) Wisconsin S&L, a savings and loan association.
+B) Strong Capital Appreciation, a mutual fund.
+C) Microsoft Corporation, a software firm.
+D) College Credit, a credit union.
+//5
+A) Annual minimum tax.
+B) Alternative minimum tax.
+C) Minimum tax law.
+D) Corpulent minimum tax.
+//6
+A) double taxation of dividends
+B) inability of the firm to raise large sums of additional capital
+C) limited liability of shareholders
+D) limited life of the corporate form
+//7
+A) Money
+B) Capital
+C) Primary
+D) Secondary
+//8
+A) Limited liability.
+B) Easy transfer of ownership position.
+C) Double taxation.
+D) All of the above
+//9
+A) Unlimited liability.
+B) Single tax filing.
+C) Difficult ownership resale.
+D) Raising capital.
+//10
+A) Money
+B) Capital
+C) Primary
+D) Secondary
+//11
+A) Money
+B) Capital
+C) Primary
+D) Secondary
+//12
+A) Interest paid on outstanding bonds.
+B) Cash dividends paid on outstanding common stock.
+C) Cash dividends paid on outstanding preferred stock.
+D) All of the above.
+//13
+A) certificate of deposit
+B) endorsement
+C) bank reconciliation
+D) money market account
+//14
+A) build up an Emergency Fund account.
+B) start a Savings account.
+C) shop for office clothes.
+D) set aside money for my dream vacation.
+//15
+A) Life insurance.
+B) Disability Insurance.
+C) Health Insurance.
+D) Retirement Savings.
+//16
+A) Education & Investment.
+B) House & Investment.
+C) House & Retirement.
+D) Investment & Retirement.
+//17
+A) shares.
+B) gold.
+C) funds.
+D) all of the above.
+//18
+A) 10% - 15% of my monthly income.
+B) 20% - 30% of my yearly income.
+C) the balance after paying off my bills etc.
+D) a percentage based on how many dependants I have.
+//19
+A) leave it to my spouse/parents to acquire financial plans for me.
+B) don't think I can take up any financial plans.
+C) have to start financial planning later on.
+D) should seek immediate help in my personal financial planning.
+//20
+A) often move in opposite directions
+B) never move in opposite directions
+C) never move in the same direction
+D) always move in opposite directions
+//21
+A) Term
+B) Collision
+C) Comprehensive
+D) Liability
+//22
+A) A little more; about 20% more.
+B) A lot more; about 70% more.
+C) About 10 times as much.
+D) No more; I would make about the same either way.
+//23
+A) A bond issued by one of the 50 States
+B) A U. S. Treasury Bond
+C) A U. S. Savings Bond
+D) A certificate of deposit at the bank
+//24
+A) A young single woman with two young children.
+B) A young single woman without children.
+C) An elderly retired man, with a wife who is also retired.
+D) A young married man without children.
+//25
+A) Cash
+B) Credit card
+C) Debit card
+D) Certificate of deposit
+//26
+A) Young couples with no children who both work.
+B) Young working couples with children.
+C) Older, working couples saving for retirement.
+D) Older people living on fixed retirement income.
+//27
+A) You don't have to pay the tax if your income is very low.
+B) It makes things more expensive for you to buy.
+C) The national sales tax percentage rate is 6%.
+D) The federal government will deduct it from your paycheck.
+//28
+A) A twenty-five year corporate bond
+B) A house financed with a fixed-rate mortgage
+C) A 10-year bond issued by a corporation
+D) A certificate of deposit at a bank
+//29
+A) Rents and profits
+B) Social Security
+C) 401k
+D) Pension
+//30
+A) Profits from business
+B) Rents
+C) Dividends and interest
+D) Salaries, wages, tips

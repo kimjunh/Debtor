@@ -1,0 +1,98 @@
+//This is a comment.
+//Put the question in the first, whole line and the correct answer letter beneath it.
+//
+//Questions:
+//
+//0
+In finance we refer to the market for short-term government and corporate debt securities as the _____ market.
+A
+//1
+Which of the following would generally have unlimited liability?
+C
+//2
+A corporation in the U.S. estimates and pays it taxes _____.
+B
+//3
+The average tax rate is equal to the _____.
+A
+//4
+Which of the following is not an example of a financial intermediary?
+C
+//5
+What mechanism ensures that large firms who benefit from tax laws pay some minimum amount of tax?
+B
+//6
+A major disadvantage of the corporate form of organization is the __________.
+A
+//7
+In finance we refer to the market where new securities are bought and sold for the first time as the __________ market.
+C
+//8
+Which of the following is an advantage of a corporation that is not an advantage as a limited partner in a partnership?
+B
+//9
+What is potentially the biggest advantage of a small partnership over a sole proprietorship?
+D
+//10
+In finance we refer to the market for relatively long-term financial instruments as the __________ market.
+B
+//11
+In finance we refer to the market where existing securities are bought and sold as the __________ market.
+D
+//12
+Which of the following examples would be deductible as an expense on the corporation's income statement?
+A
+//13
+A(n) _____ is a report that accounts for the differences between a bank statement and a checkbook balance.
+C
+//14
+If I have just started working, the first thing I should do is
+A
+//15
+The most basic Wealth Protection Plan that I should have is
+C
+//16
+CPF Special Account can be used for
+D
+//17
+I prefer stable and diversified investments.  I should grow my savings in
+C
+//18
+I have to set aside an amount of monthly savings equal to
+A
+//19
+I live from paycheck to paycheck.  So I
+D
+//20
+Bond and stock prices _____.
+A
+//21
+If you have caused an accident, which type of automobile insurance would cover damage to your own car?
+B
+//22
+If you went to college and earned a 4-year degree, how much more money could you expect to earn than if you only had a high school diploma?
+B
+//23
+Many savings programs are protected by the Federal government against loss. Which of the following is not?
+A
+//24
+If each of the following persons had the same amount of take home pay, who would need the greatest amount of life insurance?
+A
+//25
+Which of the following instruments is NOT typically associated with spending?
+D
+//26
+Inflation can cause difficulty in many ways. Which group would have the greatest problem during periods of high inflation that last several years?
+D
+//27
+Which of the following is true about sales taxes?
+B
+//28
+Which of the following types of investment would best protect the purchasing power of a family's savings in the event of a sudden increase in inflation?
+B
+//29
+Retirement income paid by a company is called:
+D
+//30
+Which of the following best describes the primary sources of income for most people age 20-35?
+D
